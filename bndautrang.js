@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/SQsXci' target='_blank'><img src='http://vespatragop.com/wp-content/uploads/2016/06/banner-bai-viet-670x300.jpg' width='500px'/><br/>13Trả góp xe Vespa Piaggio mới 2016 tại HCM</a>. HOTLINE: 0937003703. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/SQsXci' target='_blank'><img src='http://vespatragop.com/wp-content/uploads/2016/06/banner-bai-viet-670x300.jpg' width='500px'/><br/>Trả góp xe Vespa Piaggio mới 2016 tại HCM</a>. HOTLINE: 0937003703. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
